@@ -386,3 +386,88 @@ Asla atlama. Ratio test → aralık → iki endpoint → alternating/harmonic ko
 **r = 2 + cosθ etrafındaki alan** — Aynı soru kelimesi kelimesine 2 farklı midterm'de çıktı (Fall 23-24 M1 ve Fall 24-25 M2). Cevap: **9π/2**
 
 **Hiperbol asimptot + sketch** — Her Spring midterm'inde en az bir kez çıkmış.
+
+---
+
+## 6. BUDERS.COM CALCULUS-2 VİDEOLARI — ÖNCELİK REHBERİ
+
+Kaynak: https://www.buders.com/altsayfa/calculus_2_videolari.html
+(25 bölüm — Üniversite düzeyi Analiz-2)
+
+### 🔴 MUTLAKA İZLE — Sınavda garantili çıkıyor
+
+| Video | Başlık | Neden Kritik | Sınav Sıklığı |
+|-------|--------|--------------|---------------|
+| 1 | Diziler ve Seriler | Tüm seri testlerinin temeli | 10/11 |
+| 2 | Seri Testleri Örnek Sorular | Doğrudan sınav sorusu tipi | 10/11 |
+| 3 | Kuvvet Serisi (Power Series) | Yakınsaklık aralığı — her sınavda | 9/11 |
+| 4 | Taylor ve Maclaurin Serileri | En çok puan getiren konu | 9/11 |
+| 5 | Seriler Sınav Soruları | Pratik soru bankası | 10/11 |
+| 9 | Parametrik Eğriler | Konik kesitler + dy/dx sorular | 8/11 |
+| 10 | Polar Koordinatlar ve Uygulamalar | Alan hesabı — garantili soru | 7/11 |
+
+**Bu 7 videoyu bitirmeden sınava girme.**
+
+---
+
+### 🟠 ÇOK ÖNEMLİ — Midterm 2 ise kesinlikle izle
+
+| Video | Başlık | Neden Önemli | Sınav Sıklığı |
+|-------|--------|--------------|---------------|
+| 6 | Vektörler | Dot/cross product, projeksiyon | 6/11 |
+| 7 | 3D Geometri | Doğru, düzlem, küre denklemleri | 6/11 |
+
+**Not:** Son 6 midterm'in 5'inde vektör + 3D geometri sorusu çıkmış.
+Midterm 2 isen bu iki video kritik kategoriye girer.
+
+---
+
+### 🟡 ÖNEMLİ — Son 2 yılda sınavda göründü
+
+| Video | Başlık | Neden Önemli | Sınav Sıklığı |
+|-------|--------|--------------|---------------|
+| 11 | Çok Değişkenli Fonksiyonlar | Domain, level curves sorular | 4/11 |
+| 13 | Çok Değişkenli Fonksiyonlarda Limitler | İki yol testi ile limit | 3/11 |
+| 15 | Kısmi Türevler | ∂f/∂x, ∂f/∂y hesabı | 3/11 |
+
+**Not:** Bu konular son 2 yıldaki Fall Midterm 2 ve Fall 2025-26 Midterm 2'de çıktı.
+Trend artıyor, göz ardı etme.
+
+---
+
+### 🟢 DÜŞÜK ÖNCELİK — Midterm'de nadiren çıkıyor
+
+| Video | Başlık | Not |
+|-------|--------|-----|
+| 8 | Vektör Değerli Fonksiyonlar | Midterm'de çıkmadı |
+| 12 | İkinci Dereceden Yüzeyler (Quadric) | Midterm'de çıkmadı |
+| 14 | Çok Değişkenli Fonksiyonlarda Süreklilik | Çok nadir |
+| 16 | Gradyan Vektörü ve Yönlü Türev | Midterm'de görülmedi |
+| 17 | Teğet Düzlem ve Normal Doğru | Midterm'de görülmedi |
+| 18 | Çok Değişkenli Fonksiyonlarda Ekstremum | Midterm'de görülmedi |
+| 19 | Çift İntegral | Final konusu |
+| 20 | Kartezyen/Silindirik/Küresel Koordinatlar | Final konusu |
+| 21 | Üçlü İntegral | Final konusu |
+| 22 | Çizgi İntegrali | Final konusu |
+| 23 | Yüzey İntegrali | Final konusu |
+| 24 | Potansiyel Sınav Soruları | Zaman varsa bak |
+| 25 | Sınav Örnekleri | Zaman varsa bak |
+
+---
+
+### İZLEME SIRASI ÖNERİSİ (1 Gün için)
+
+```
+Sabah bloğu (Seri ağırlıklı):
+  Video 1 → Video 2 → Video 5  (Seri testleri + pratik)
+  Video 3                       (Power Series)
+  Video 4                       (Taylor/Maclaurin)
+
+Öğleden sonra bloğu (Geometri ağırlıklı):
+  Video 9  → Video 10          (Konik kesitler + Polar alan)
+  Video 6  → Video 7           (Vektörler + 3D — Midterm 2 ise)
+
+Akşam bloğu (Varsa zaman):
+  Video 11 → Video 13 → Video 15  (Çok değişkenli — trend yükseliyor)
+  Video 24 → Video 25              (Sınav soruları pratik)
+```
